@@ -1,0 +1,47 @@
+
+    .fondo {
+        background: #e9fcff;
+      }
+  
+      .btn-circulo {
+        border-radius: 50px;
+      }
+  
+      .tamaño {
+        font-size: 14px;
+      }
+  
+      /* f8f54c */
+  
+      .colorM {
+        background-color: #9ee9e9;
+      }
+  
+      .colorH {
+        background: #e9fcff;
+      }
+      .ColorNegro {
+        color: black;
+      }
+  
+  
+      .card {
+        border-radius: 40px;
+      }
+      .colorF {
+        background: #c4d8d8;
+      }
+  
+      .ColumnaIzquierda {
+        background: #6bdfeed7;
+        border-radius: 20px;
+      }
+
+      table {
+    display: block;
+    overflow-x: auto;
+  }
+  
+  .btn-circulo2 {
+    border-radius: 200px;
+  }
