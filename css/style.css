@@ -1,6 +1,8 @@
-
     .fondo {
         background: #e9fcff;
+      }
+      .negro {
+        background: rgb(12, 12, 12);
       }
   
       .btn-circulo {
@@ -45,3 +47,38 @@
   .btn-circulo2 {
     border-radius: 200px;
   }
+  
+  /*Navegacion Sep*/
+.barra {
+  display: flex;
+  justify-content: space-between; /*Alineacion horizontal*/
+  padding: .8rem;
+  align-items: center; /*Alineacion Vertical*/
+  top: 0;
+}
+
+.navegacion a {
+  color: rgba(251, 253, 255, 0.876);
+  text-decoration: none;
+  font-size: .9rem;
+  margin-right: 1rem;
+  align-items: center; /*Alineacion Vertical*/
+}
+.barra img {
+  max-width: 14%;
+  margin: 0%;
+}
+.fin {
+  margin-right: 40rem;
+}
+
+.lupita {
+  max-width: 25%;
+}
+
+.sticky-top-2 {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 3.7rem;
+  z-index: 1030;
+}
